@@ -1,0 +1,36 @@
+Bank : TCICI Bank
+AC-NO : 3013401201807212
+
+Username : mustkoujalagi@gmail.com
+
+Password : OyH4vxj
+
+Balance : Rs.200000
+
+Credite card-----------------------------
+Name On Card : mustakim
+Card Number : 5014401191606655
+
+CVV : 406
+
+PIN : 4467
+
+Expiry : 1/28
+
+Balance : 100000
+
+Issued By : TBI Bank
+
+debite card--------------------------------
+Bank : TCICI Bank
+Name On Card : mustakim
+
+Card Number : 3014401191607399
+
+CVV : 925
+
+PIN : 8043
+
+Expiry : 1/28
+
+Balance : 100000
