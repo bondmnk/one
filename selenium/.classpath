@@ -27,5 +27,7 @@
 	<classpathentry kind="lib" path="C:/Users/user/3D Objects/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/curvesapi-1.07.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/3D Objects/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/3D Objects/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/3D Objects/Downloads/extentreports-2.41.2.jar" sourcepath="C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/3D Objects/Downloads/freemarker-2.3.23.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
