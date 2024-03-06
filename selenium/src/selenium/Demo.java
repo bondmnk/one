@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	driver.get("https://www.facebook.com/");
 Sysout("new line adding");
 Sysout("new second line adding");
+Sysout("new second line adding");
 	
 }
 }
